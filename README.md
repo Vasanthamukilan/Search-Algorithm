@@ -101,7 +101,7 @@ else:
 ### i)Use a linear search method to match the item in a list.
 !['output'](/Screenshot_20230123_073934.png )
 ### ii)Find the element in a list using Binary Search(Iterative Method).
-!['output'](/Screenshot_20230123_073744.png)
+!['output'](/Screenshot_20230123_072902.png)
 ### iii)Find the element in a list using Binary Search (recursive Method).
 !['output'](/Screenshot_20230123_072902.png)
 ## Result
